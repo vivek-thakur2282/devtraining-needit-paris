@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Launcher Button">e966a2a42f143010b480f7ecf699b6bd</jump_to_screen>
+        <name>Incidents</name>
+        <report display_value="Open Incidents by Priority">11e2935bc0a8016501aba72e1525e6f7</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 04:21:29</sys_created_on>
+        <sys_id>19eee97d2f103010b480f7ecf699b60f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incidents</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_chart_19eee97d2f103010b480f7ecf699b60f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 04:21:29</sys_updated_on>
+        <title/>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

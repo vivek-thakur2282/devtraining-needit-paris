@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="NeedIt">8508aa642f143010b480f7ecf699b6d6</applet_launcher>
+        <order>40</order>
+        <section display_value="All NeedIt">054ead7d2f103010b480f7ecf699b633</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 04:18:44</sys_created_on>
+        <sys_id>0d4ead7d2f103010b480f7ecf699b636</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_0d4ead7d2f103010b480f7ecf699b636</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 04:18:44</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>714c7991dbdf3f482f68c5970596196e</instance_id>
+        <instance_name>dev91598</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_0d4ead7d2f103010b480f7ecf699b636</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="NeedIt">8508aa642f143010b480f7ecf699b6d6</applet_launcher><order>40</order><section display_value="All NeedIt">054ead7d2f103010b480f7ecf699b633</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-24 04:18:44</sys_created_on><sys_id>0d4ead7d2f103010b480f7ecf699b636</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_0d4ead7d2f103010b480f7ecf699b636</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-24 04:18:44</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>-744222987</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f256d1202f503010b480f7ecf699b65c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 04:18:44</sys_created_on>
+        <sys_id>854ee1bd2f103010b480f7ecf699b678</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1799c98b77d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 04:18:44</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>c94ead7dc8103010c25ae7dab2615438</update_guid>
+        <update_guid_history>c94ead7dc8103010c25ae7dab2615438:-744222987</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 04:19:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>2d085dda12154390b0ab73e296511090</sys_id>
+        <sys_metadata>0d4ead7d2f103010b480f7ecf699b636</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_0d4ead7d2f103010b480f7ecf699b636</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_0d4ead7d2f103010b480f7ecf699b636">854ee1bd2f103010b480f7ecf699b678</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 04:19:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
